@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2020, Watermi Lin</copyright>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://watermi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>夢</title>
       <link>https://watermi.github.io/tags/%E5%A4%A2/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://watermi.github.io/tags/%E5%A4%A2/</guid>
       <description></description>
@@ -27,33 +27,6 @@
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://watermi.github.io/tags/%E5%A4%B1%E6%88%80%E6%88%90%E5%B1%8E/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>a</title>
-      <link>https://watermi.github.io/tags/a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://watermi.github.io/tags/a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>b</title>
-      <link>https://watermi.github.io/tags/b/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://watermi.github.io/tags/b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>c</title>
-      <link>https://watermi.github.io/tags/c/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://watermi.github.io/tags/c/</guid>
       <description></description>
     </item>
     
